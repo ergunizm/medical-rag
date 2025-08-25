@@ -1,0 +1,131 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background-color: #f4f7f9;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 2rem;
+}
+
+.query-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 2rem;
+}
+
+.query-form input {
+  flex-grow: 1;
+  padding: 12px 15px;
+  font-size: 16px;
+  border: 1px solid #dcdfe6;
+  border-radius: 4px;
+  transition: border-color 0.2s;
+}
+
+.query-form input:focus {
+  outline: none;
+  border-color: #409eff;
+}
+
+.query-form button {
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  background-color: #409eff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.query-form button:hover:not(:disabled) {
+  background-color: #66b1ff;
+}
+
+.query-form button:disabled {
+  background-color: #a0cfff;
+  cursor: not-allowed;
+}
+
+.loading, .error {
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 4px;
+}
+
+.loading {
+  color: #409eff;
+}
+
+.error {
+  background-color: #fef0f0;
+  color: #f56c6c;
+  border: 1px solid #fde2e2;
+}
+
+.result-container {
+  margin-top: 2rem;
+  border-top: 1px solid #e4e7ed;
+  padding-top: 2rem;
+}
+
+.answer h2 {
+  color: #303133;
+  border-left: 4px solid #409eff;
+  padding-left: 10px;
+}
+
+.answer p {
+  line-height: 1.7;
+  white-space: pre-wrap;
+  font-size: 16px;
+}
+
+.sources-container h2 {
+  color: #303133;
+  margin-top: 2.5rem;
+}
+
+.source-card {
+  background-color: #f9fafb;
+  border: 1px solid #e4e7ed;
+  border-radius: 4px;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.source-card p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+.source-card .source-filename {
+  font-size: 12px;
+  font-weight: bold;
+  color: #909399;
+  margin-top: 10px;
+  text-align: right;
+}
+
+.performance {
+  margin-top: 2.5rem;
+  font-size: 12px;
+  color: #909399;
+  text-align: center;
+}
