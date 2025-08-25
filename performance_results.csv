@@ -1,0 +1,101 @@
+Query,Query_Length,Retrieval_Time_MS,Generation_Time_MS,Total_Time_MS
+What is the most basic thing for cancer diagnosis,Kisa,7,394,401
+What does the Warburg phenomenon explain,Kisa,9,425,434
+How are cancer cells destroyed,Kisa,5,1508,1513
+Why is cancer heterogeneity complex,Kisa,10,414,424
+What does the cancer genome record,Kisa,9,373,382
+Who wrote The Cancer Atlas,Kisa,7,458,465
+What is a class of drugs used in cancer treatment,Kisa,11,403,414
+What was cancer immunotherapy in 2013,Kisa,11,440,451
+Why is mammographic screening done for breast cancer,Kisa,10,784,794
+By what is cancer evolution measured,Kisa,3,417,420
+What is liquid biopsy used to detect,Kisa,10,474,484
+How are normal cells distinguished from cancer cells,Kisa,13,443,456
+Which targeted therapy is used in cancer treatment,Orta,20,504,524
+What is the basic characteristic of cancer,Kisa,15,448,463
+What does cancer surgery do,Orta,13,542,555
+Is early-stage cancer treated well,Kisa,10,788,798
+Are malignancies the second most common cause of death,Orta,7,478,485
+What does the histological similarity of tumors mask,Orta,5,600,605
+What is the breast cancer recurrence rate,Kisa,7,445,452
+Why is it difficult to monitor cancer evolution,Orta,10,502,512
+Is cancer one of the most dreaded diseases of the 20th century,Uzun,18,388,406
+Are all cancers diagnosed early treatable,Orta,20,641,661
+What are the four main methods of treating cancer patients,Uzun,14,490,504
+What is the Warburg phenomenon and when was it discovered,Uzun,4,1140,1144
+What is one of the new approaches in cancer treatment and why is it important,Uzun,19,438,457
+What is liquid biopsy used for in breast cancer patients,Orta,6,782,788
+What stops the growth of cancer cells,Orta,14,482,496
+How is cancer genetically monitored,Orta,5,334,339
+What are the benefits of liquid biopsy,Orta,5,860,865
+How do metabolic changes in cancer provide an advantage to cancer cells,Uzun,16,662,678
+What are the two main characteristics of cancer cell metabolism,Uzun,5,694,699
+What is the reason for malignancies being the second most common cause of death,Uzun,10,385,395
+Why is the genome useful for studying cancer evolution,Uzun,6,546,552
+Why is cancer epigenetics important,Uzun,13,995,1008
+How long does local recurrence of breast cancer take after surgery,Uzun,10,378,388
+What does the term ‘field cancerization’ in breast cancer mean,Uzun,15,550,565
+How do changes in tumor cell metabolism provide an advantage in cancer treatment,Uzun,14,635,649
+Why is matching embryonic mouse tissues and childhood cancers important,Uzun,10,684,694
+How is cancer described as one of the most dreaded diseases of the 20th century and what is its current status,Uzun,2,398,400
+What are the essential hallmarks of cancer in the paper by Hanahan and Weinberg,Uzun,18,1004,1022
+Why was immunotherapy chosen as the 'Breakthrough of the Year' in 2013,Uzun,17,330,347
+Why does treatment become difficult when cancer reaches the metastatic stage,Uzun,9,474,483
+How does cancer genomics help us understand cancer evolution,Uzun,4,1296,1300
+Why is tumor heterogeneity a problem,Uzun,7,312,319
+How is genomic analysis used in localized breast cancer,Uzun,10,3789,3799
+How does the metabolism of cancer cells differ from that of normal cells,Uzun,11,308,319
+Why is it challenging to study cancer evolution and how can this challenge be overcome,Uzun,12,549,561
+What role does circulating tumor DNA (ctDNA) play in monitoring cancer treatment,Uzun,16,912,928
+Why has a cure for cancer not yet been found for everyone,Uzun,7,423,430
+How is mitochondrial biogenesis in cancer cells inhibited,Orta,9,440,449
+What are the causes of cancer,Kisa,8,363,371
+What are the treatment methods for cancer,Kisa,18,364,382
+What is the use of cancer epigenetics,Orta,10,519,529
+What is the recurrence rate of breast cancer,Kisa,12,312,324
+What monitors cancer evolution,Kisa,16,795,811
+Why is cancer the most dreaded disease,Orta,14,703,717
+Is cancer always treatable,Kisa,12,610,622
+What is the relationship between tumor cell metabolism and the Warburg phenomenon,Orta,9,292,301
+What are the new technologies used in cancer treatment,Orta,10,397,407
+What is the recurrence rate of breast cancer after surgery,Orta,8,288,296
+Was cancer one of the most dreaded diseases of the 20th century,Uzun,13,315,328
+Are malignancies the second most common cause of death among children and adults,Uzun,12,266,278
+What is the most important early detection method for breast cancer,Uzun,11,347,358
+What are the four ways to stop the growth of cancer cells,Uzun,11,1034,1045
+How does cancer epigenetics help in determining tumor subtypes,Uzun,4,381,385
+What is the difficulty of studying cancer evolution,Orta,11,649,660
+How often does breast cancer recurrence occur,Orta,8,562,570
+How is cancer biology explained by the term 'hallmarks of cancer',Uzun,14,444,458
+How are genomic technologies transforming cancer treatment,Uzun,13,2496,2509
+What kind of information does cancer epigenetics provide,Orta,13,713,726
+What kind of information does the cancer genome contain about cancer evolution,Uzun,14,647,661
+What changes does the metabolic reprogramming of cancer cells include besides the Warburg effect,Uzun,7,624,631
+Why should the term 'cancers' be used instead of 'cancer',Uzun,10,352,362
+What is one of the main challenges in cancer treatment,Uzun,14,384,398
+How can liquid biopsy make cancer treatment more personalized,Uzun,11,452,463
+Why is the metabolic reprogramming of cancer cells a critical target for treatment,Uzun,20,675,695
+Why is studying cancer evolution genomically important for future treatments,Uzun,10,360,370
+Why is the histological classification of tumors insufficient,Uzun,16,1162,1178
+How does liquid biopsy monitor recurrence in breast cancer patients after surgery,Uzun,15,443,458
+What is the role of lifestyle in the formation of cancer,Uzun,16,340,356
+What is the biggest obstacle in the fight against cancer,Kisa,16,368,384
+What are the metabolic properties of tumor cells,Orta,5,618,623
+What are some new approaches in cancer treatment,Orta,13,410,423
+Why is cancer genetics important,Orta,8,464,472
+What does 'field cancerization' in breast cancer explain,Orta,12,611,623
+Was cancer the most dreaded disease of the 20th century,Orta,13,298,311
+Can cancer be treated when caught early,Orta,13,270,283
+What are some of the causes of cancer,Orta,26,323,349
+What role does cancer genetics play in cancer treatment,Uzun,10,489,499
+How is understanding cancer evolution related to treatment resistance,Uzun,5,371,376
+What is the Warburg effect and how does it help cancer cells,Uzun,8,429,437
+What is liquid biopsy and why is it preferred for cancer monitoring,Uzun,9,850,859
+What does the 'field cancerization' theory in breast cancer mean,Uzun,16,583,599
+What is the role of cancer epigenetics in determining tumor subtypes,Uzun,14,369,383
+Why is the phrase 'usually resembling the originating tissue' used in the definition of cancer,Uzun,13,366,379
+Why does cancer genomics describe the development of cancer as a 'secret record',Uzun,14,572,586
+What is indicated by the increase in the number of deaths from cancer,Uzun,10,404,414
+What cellular mechanisms are associated with the metabolic reprogramming of tumor cells,Uzun,13,622,635
+What is one of the biggest challenges in cancer treatment and why does this challenge persist,Uzun,18,652,670
+How does cancer epigenetics separate tumor subtypes,Uzun,10,384,394

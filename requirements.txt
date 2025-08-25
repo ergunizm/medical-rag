@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+transformers
+sentence-transformers
+faiss-cpu
+langchain
+pypdf
+python-dotenv
+requests
+tqdm
+aiofiles
+pathlib
